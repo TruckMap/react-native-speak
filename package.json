@@ -6,7 +6,7 @@
   "types": "build/main/src/index.d.ts",
   "module": "build/module/src/index.js",
   "repository": "git@github.com:ericlewis/react-native-speak.git",
-  "homepage": "git@github.com:ericlewis/react-native-speak.git",
+  "homepage": "https://github.com/ericlewis/react-native-speak",
   "author": {
     "name": "Eric Lewis"
   },
